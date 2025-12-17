@@ -1,4 +1,4 @@
-# README
+# git branch 명령어 정리
 
 - 브랜치 확인
   - git branch
@@ -9,3 +9,4 @@
     - `c` : 생성하면서 전환
 - 브랜치 삭제
   - git branch -d {branch_name}
+-
