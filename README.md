@@ -15,4 +15,5 @@
   - `--graph` : 그래프 형태로 출력
 - 병합
   - git merge {target_branch} : 현재 내가 있는 브랜치에 타겟 브랜치를 가져와서 병합
-- 코드 수정
+- git hub > settings > branches > Ruleset > Require a pull request before merging : 직접적으로 머징할수 없다
+  - Required approvals : 몇명이 허용해줘야 할지를 정해줌
